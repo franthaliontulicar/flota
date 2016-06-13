@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=ma\ an\ kilo\ ide\ pes
+comment0.target=VehiculosPeso(Marca,\ int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=int\ getPeso()
+comment1.text=\r\n\ An\ example\ of\ a\ method\ header\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ \ \ \ the\ result\ produced\ by\ sampleMethod\ \r\n
+numComments=2
